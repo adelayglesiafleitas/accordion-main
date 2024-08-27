@@ -1,0 +1,19 @@
+.container-accordion-header {
+  display: flex;
+  height: 85px;
+  display: flex;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.container-accordion-header img {
+  width: 25px;
+  margin-left: 25px;
+}
+.container-accordion-header p {
+  width: 20px;
+  font-size: 35px;
+  margin-left: 25px;
+}
